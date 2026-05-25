@@ -75,8 +75,8 @@
 
 ## 📈 Estadísticas de Actividad
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgegalvez159&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgegalvez159&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JorgeGalvezG&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGalvezG&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
 </div>
 
 <hr>
