@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>¡Hola! Soy Jorge Galvez Garro 👋</h1>
+  <h1>¡Hola! Soy Jorge Galvez Garro </h1>
   <p><b>Estudiante de Ingeniería de Software (UNMSM) | Desarrollador Junior Interesado en Especializarse en Full-Stack</b></p>
 
   <p>Me apasiona construir soluciones integrales, desde el diseño de la arquitectura y la gestión de memoria, hasta la implementación de interfaces móviles y de escritorio. Disfruto profundizando en la teoría de la computación, el análisis de complejidad algorítmica y la estructura de lenguajes formales. </p>
@@ -74,9 +74,13 @@
 <hr>
 
 ## 📈 Estadísticas de Actividad
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JorgeGalvezG&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGalvezG&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JorgeGalvezG&show_icons=true&theme=tokyonight)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGalvezG&layout=compact&theme=tokyonight)
+
 </div>
 
 <hr>
