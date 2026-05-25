@@ -18,14 +18,14 @@
         <li>💻 Desarrollador Junior Full-Stack enfocado en crear soluciones para plataformas <code>Móviles</code> y de <code>Escritorio</code>.</li>
         <li>🤓 Me apasiona investigar sobre <code>Complejidad Algorítmica</code> y <code>Lenguajes Formales</code>.</li>
         <li>🎮 En mi tiempo libre disfruto explorando el <code>Pixel Art</code> y el diseño de mecánicas de videojuegos.</li>
-        <li>📫 Puedes contactarme directamente mi correo electronico: <b><a href="mailto:jorgal4010@gmail.com">jorgal4010@gmail.com</a></b></li>
-        <li>💼 Visita mi perfil profesional en <b><a href="https://www.linkedin.com/in/jorgegalvez159">LinkedIn</a></b>.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/coding.gif" width="300" alt="Coding GIF" />
-    </td>
-  </tr>
+<li>📫 Puedes contactarme directamente mi correo electronico: <b><a href="mailto:jorgal4010@gmail.com">jorgal4010@gmail.com</a></b></li>
+<li>💼 Visita mi perfil profesional en <b><a href="https://www.linkedin.com/in/jorgegalvez159">LinkedIn</a></b>.</li>
+</ul>
+</td>
+<td width="40%" align="center">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280" alt="Coding GIF" />
+</td>
+</tr>
 </table>
 
 <hr>
@@ -50,10 +50,28 @@
 ### 🗄️ Software, Herramientas y Bases de Datos
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" title="MySQL" style="margin: 0 10px;"/>
-  <img src="https://cdn.simpleicons.org/tidb/5B82D7" width="40" height="40" alt="TiDB" title="TiDB" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git" style="margin: 0 10px;"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Bizagi_BPMN-0052CC?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="Bizagi" />
+  <img src="https://cdn.simpleicons.org/tidb/5B82D7" width="45" height="45" alt="TiDB" title="TiDB" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub" style="margin: 0 10px;"/>
+ <img src="https://img.icons8.com/color/48/000000/flow-chart.png" width="45" height="45" alt="Bizagi Modeler" title="Bizagi Modeler" style="margin: 0 10px;"/>
+</p>
+
+### ⌨️ Editores de Código e IDEs
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" title="VS Code" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="45" height="45" alt="Visual Studio" title="Visual Studio" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA" title="IntelliJ IDEA" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="45" height="45" alt="Android Studio" title="Android Studio" style="margin: 0 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="45" height="45" alt="NetBeans" title="NetBeans" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="45" height="45" alt="Eclipse" title="Eclipse" style="margin: 0 10px;"/>
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="45" height="45" alt="Google Colab" title="Google Colab" style="margin: 0 10px;"/>
+</p>
+
+### 🐧 Sistemas Operativos
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="45" height="45" alt="Ubuntu" title="Ubuntu Server" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" title="Linux" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="45" height="45" alt="Windows" title="Windows" style="margin: 0 10px;"/>
 </p>
 
 <hr>
@@ -76,7 +94,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java" style="margin: 0 10px;"/>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot" title="Spring Boot" style="margin: 0 10px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" title="MySQL" style="margin: 0 10px;"/>
-      <img src="https://img.shields.io/badge/TiDB-333333?style=flat-square&logo=tidb&logoColor=white" />
+     <img src="https://cdn.simpleicons.org/tidb/5B82D7" width="45" height="45" alt="TiDB" title="TiDB" style="margin: 0 10px;"/>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter" title="Flutter" style="margin: 0 10px;"/>
     </td>
   </tr>
@@ -98,8 +116,8 @@
   <summary><b>💻 Estadísticas del Perfil (Profile Stats)</b></summary>
   <br>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JorgeGalvezG&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="190" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGalvezG&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="190" />
+    <img src="https://github-readme-stats-mirror.vercel.app/api?username=JorgeGalvezG&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+    <img src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=JorgeGalvezG&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
   </div>
 </details>
 
